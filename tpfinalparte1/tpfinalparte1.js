@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=nsdfCxTTbA8
+
 let pantalla = 0;
 
 let Kong = [];
@@ -27,7 +29,7 @@ let entregatorta;
 let entregatorta2;
 let accidentetorta;
 
-// CURSOR PERSONALIZADO
+// CURSOR
 let cursorbanana;
 
 // FUENTES
